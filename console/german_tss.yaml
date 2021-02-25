@@ -1,0 +1,21 @@
+
+# The name of deck
+deck: "德语学习词汇"
+
+# search the words based on this field
+word: "词汇"
+
+# Fill the content to these fields.
+# You should write the names of fields here.
+target_fields:
+  meaning: "词义"
+  article: "冠词"
+  grammer: "语法"
+  sentence: "例句"
+  phonetic: "音标"
+  audio: "音频"    # path of audio
+  freqency: "词频"
+  tendency: "词频趋势"  # path of image from dwds
+  type: "类型"  # noun, adjective, verb
+  # Overwrite the fields
+  overwrite: True

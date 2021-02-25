@@ -1,0 +1,3 @@
+"""
+Clear invalid html files
+"""

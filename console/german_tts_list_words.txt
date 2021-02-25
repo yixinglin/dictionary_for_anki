@@ -1,0 +1,13 @@
+Hund	狗
+lila	紫色
+Obst	水果
+liegen	躺下
+rosa	粉色
+geben	给
+fliegen	飞
+rot	红色
+bringen	带
+fertig	完成
+Stift	笔
+wasser	水
+hoch	高的

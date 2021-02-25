@@ -1,0 +1,19 @@
+
+# The name of deck
+deck: "墨墨雅思::雅思真词汇-4&3频率"
+
+# search the words based on this field
+word: "词汇"
+
+# Fill the content to these fields.
+# You should write the names of fields here.
+target_fields:
+  phonetic_uk: "音标uk"
+  phonetic_us: "音标us"
+  sentence: "例句"
+  meaning: "词义"
+  audio: "发音"    # path of audio
+  # Use audio file of us-pronunciation
+  us_audio_used: False
+  # Overwrite the fields
+  overwrite: True
